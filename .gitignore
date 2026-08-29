@@ -1,0 +1,11 @@
+# Dependencies
+Blockchain/node_modules/
+
+# Hardhat generated files
+Blockchain/artifacts/
+Blockchain/cache/
+Blockchain/types/
+
+# Environment variables
+.env
+Blockchain/.env
